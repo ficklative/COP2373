@@ -1,3 +1,7 @@
+# This program will display a database for ten cities
+# in Florida, and will give a user a graph of the next
+# 20 years for the population growth/decline
+
 import matplotlib.pyplot as plt
 import sqlite3
 import random
